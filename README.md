@@ -1,4 +1,13 @@
 # AnemiaNiramay
+
+<h2>Steps to access the files</h2>
+<p>server.js file</p>
+<p>config.js file</p>
+<p>MySQL queries file</p>
+<p>navigation.js file</p>
+<p>index.js file</p>
+
+
 <h2>Installation</h2>
 
 <h3>Install android studio</h3>
