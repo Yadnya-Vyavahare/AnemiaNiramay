@@ -1,11 +1,15 @@
 # AnemiaNiramay
 
 <h2>Steps to access the files</h2>
-<p>server.js file</p>
-<p>config.js file</p>
-<p>MySQL queries file</p>
-<p>navigation.js file</p>
-<p>index.js file</p>
+<h4>Server.js</h4>
+ <p>
+  1) It has MySQL Database connectivity<br>
+  2) All APIs with SQL queries are written here.
+ </p>
+<h4>Config.js</h4>
+<p>It has public IP address and port number required for API URL </p>
+<h4>SQL Query file</h4>
+<p>All quieries required to make Database are provided</p>
 
 
 <h2>Installation</h2>
@@ -109,13 +113,3 @@ MYAPP_UPLOAD_KEY_PASSWORD=********<br><br>
    3) npx react-native clean<br>
    4) npx react-native start --reset-cache<br>
  </p>
- <h4>Server.js</h4>
- <p>
-  1) It has MySQL Database connectivity<br>
-  2) All APIs with SQL queries are written here.
- </p>
-<h4>Config.js</h4>
-<p>It has public IP address and port number required for API URL </p>
-<h4>SQL Query file</h4>
-<p>All quieries required to make Database are provided</p>
-
