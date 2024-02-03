@@ -109,13 +109,13 @@ MYAPP_UPLOAD_KEY_PASSWORD=********<br><br>
    3) npx react-native clean<br>
    4) npx react-native start --reset-cache<br>
  </p>
- <h3>Server.js</h3>
+ <h4>Server.js</h4>
  <p>
-  1) It has MySQL Database connectivity
+  1) It has MySQL Database connectivity<br>
   2) All APIs with SQL queries are written here.
  </p>
-<h3>Config.js</h3>
+<h4>Config.js</h4>
 <p>It has public IP address and port number required for API URL </p>
-<h3>SQL Query file</h3>
+<h4>SQL Query file</h4>
 <p>All quieries required to make Database are provided</p>
 
