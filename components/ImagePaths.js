@@ -1,0 +1,13 @@
+export const Girl = require('../assests/images/GirlIcon.png');
+export const report = require('../assests/images/report.jpg');
+export const oReport = require('../assests/images/overReport.jpg'); 
+export const aReport = require('../assests/images/oReport.jpg');
+export const sReport = require('../assests/images/areaReport.png');
+export const doctor = require('../assests/images/DoctorIcon1.png');
+export const dDoctor = require('../assests/images/DeleteDoctorIcon.jpg');
+export const kvs = require('../assests/images/KVSIcon1.png');
+export const list = require('../assests/images/list.jpg');
+export const systemic = require('../assests/images/SystemicExam.png');
+export const physical = require('../assests/images/PhyExa.jpg');
+export const detailPhysical = require('../assests/images/DetailPhysical.png');
+export const remark = require('../assests/images/remarks1.jpg');
