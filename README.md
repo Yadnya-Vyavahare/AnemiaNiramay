@@ -113,4 +113,3 @@ MYAPP_UPLOAD_KEY_PASSWORD=********<br><br>
    3) npx react-native clean<br>
    4) npx react-native start --reset-cache<br>
  </p>
->>>>>>> 52ec60cbb655c273fdb37c22c7ad96da2a1be3fb
